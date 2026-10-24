@@ -1,3 +1,4 @@
+
 # Jolla_2026_Phone_Case_-_TPU
 Model for TPU Case for Jolla 2026. Tested to print with TPU95A on Ender 3 V3 SE
 
@@ -11,3 +12,5 @@ If you want to see how it looks, go to https://www.thingiverse.com/thing:7426007
 You can use Jolla26_Case_1mm.3mf for bumper + case with 1mm thickness or the single files Jolla26_Case-Cut_bumper_Xmm.3mf and Jolla26_Case-Cut_Huelle_Xmm.3mf - for thickness X. Combining different thicknesses for bumper and case will not fit exactly.
 
 I used the dimensions from Benpaz "Jolla Phone Case (2026)" on 3DSEARCH (https://3dsearch.net/model/jolla-phone-case-2026-1829526).
+
+<img width="3697" height="1760" alt="2" src="https://github.com/user-attachments/assets/c463362f-5516-4a01-b0b2-71a63f7b0710" />

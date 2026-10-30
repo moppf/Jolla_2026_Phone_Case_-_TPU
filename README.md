@@ -20,4 +20,6 @@ You can use Jolla26_Case_1mm.3mf for bumper + case with 1mm thickness or the sin
 
 I used the dimensions from Benpaz "Jolla Phone Case (2026)" on 3DSEARCH (https://3dsearch.net/model/jolla-phone-case-2026-1829526).
 
-<img width="1019" height="655" alt="Bildschirmfoto vom 2026-10-24 19-10-59" src="https://github.com/user-attachments/assets/fa956e53-2e47-431d-a4c3-acda6d63d060" />
+<img width="1021" height="643" alt="v3_8" src="https://github.com/user-attachments/assets/305dcb4a-6b78-4df0-a4c2-0f063e759760" />
+
+<img width="3755" height="1875" alt="v3_1" src="https://github.com/user-attachments/assets/93ef2536-4a19-429a-828a-5eefd9485b6f" />
